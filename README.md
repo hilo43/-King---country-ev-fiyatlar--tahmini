@@ -1,1 +1,1 @@
-King country dataseti ile ev fiyatı tahminlemesi yapılan bir makine öğrenemsi projes
+A machine learning project that predicts house prices with the King country dataset.
